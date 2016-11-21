@@ -1,4 +1,4 @@
-print("Hello")
-print("Master ID")
-print('Hello My Dear Friends')
-print('Glad rto see you')
+print("Hello;")
+print("Master ID;")
+print('Hello My Dear Friends;')
+print('Glad rto see you;')
